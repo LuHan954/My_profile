@@ -1,0 +1,40 @@
+.nav-link{
+    colur:white;
+}
+
+.rounded-circle{
+    width 150px;
+    height: 150px;
+}
+
+.details-table{
+    border: 2px solid red;
+}
+
+.jumbotron{
+    margin-bottom 0%;
+}
+
+    #about{
+        background-color: #162447
+        color: white; 
+}
+
+#skills{
+    background-color:cornflowerblue;
+}
+
+.testimonial_heading{
+    text-align: center;
+    color: red;
+}
+
+.testimonial_desc{
+    text-align: center;
+    color: lightgrey;
+}
+
+.testimonial_year{
+    text-align: center;
+    color: red;
+}
